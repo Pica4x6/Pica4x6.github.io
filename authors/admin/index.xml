@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo Picazo Sanchez | Pica4x6</title>
+    <link>https://Pica4x6.github.io/authors/admin/</link>
+      <atom:link href="https://Pica4x6.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pablo Picazo Sanchez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://Pica4x6.github.io/authors/admin/avatar_hubdb7b8e629e6bd649a03a8a017e816f3_262118_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Pablo Picazo Sanchez</title>
+      <link>https://Pica4x6.github.io/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>
