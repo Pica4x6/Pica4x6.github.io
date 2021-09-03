@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;ubiquitous computing&#34; | Pica4x6</title>
+    <link>https://Pica4x6.github.io/tag/ubiquitous-computing/</link>
+      <atom:link href="https://Pica4x6.github.io/tag/ubiquitous-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;ubiquitous computing&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Pica4x6.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>&#34;ubiquitous computing&#34;</title>
+      <link>https://Pica4x6.github.io/tag/ubiquitous-computing/</link>
+    </image>
+    
+    <item>
+      <title>Weaknesses of fingerprint-based mutual authentication protocol</title>
+      <link>https://Pica4x6.github.io/publication/picazo-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://Pica4x6.github.io/publication/picazo-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
