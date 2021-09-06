@@ -5,7 +5,7 @@
     <link>https://Pica4x6.github.io/publication/</link>
       <atom:link href="https://Pica4x6.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Pica4x6.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,7 +13,31 @@
     </image>
     
     <item>
-      <title>HMAC and &#39;Secure Preferences&#39;: Revisiting Chromium-based Browsers Security</title>
+      <title>Modelling cryptographic distinguishers using machine learning</title>
+      <link>https://Pica4x6.github.io/publication/brunetta-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://Pica4x6.github.io/publication/brunetta-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>After you, please: browser extensions order attacks and countermeasures</title>
+      <link>https://Pica4x6.github.io/publication/picazo-2019/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Pica4x6.github.io/publication/picazo-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are the Interpulse Intervals of an ECG signal a good source of entropy? An in-depth entropy analysis based on NIST 800-90B recommendation</title>
+      <link>https://Pica4x6.github.io/publication/ortiz-2019-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Pica4x6.github.io/publication/ortiz-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HMAC and “secure preferences”: Revisiting chromium-based browsers security</title>
       <link>https://Pica4x6.github.io/publication/picazo-sanchez-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://Pica4x6.github.io/publication/picazo-sanchez-2020/</guid>
@@ -21,26 +45,10 @@
     </item>
     
     <item>
-      <title>After You, Please: Browser Extensions Order Attacks and Countermeasures</title>
-      <link>https://Pica4x6.github.io/publication/picazo-2019/</link>
+      <title>Feasibility analysis of Inter-Pulse Intervals based solutions for cryptographic token generation by two electrocardiogram sensors</title>
+      <link>https://Pica4x6.github.io/publication/ortiz-martin-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://Pica4x6.github.io/publication/picazo-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Are the Interpulse Intervals of an ECG Signal a Good Source of Entropy? An In-depth  Entropy Analysis Based on NIST 800-90B Recommendation</title>
-      <link>https://Pica4x6.github.io/publication/ortiz-2019-a/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://Pica4x6.github.io/publication/ortiz-2019-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feasibility Analysis of Inter-Pulse Intervals Based Solutions for Cryptographic Token Generation by Two Electrocardiogram Sensors</title>
-      <link>https://Pica4x6.github.io/publication/ortiz-2019-b/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://Pica4x6.github.io/publication/ortiz-2019-b/</guid>
+      <guid>https://Pica4x6.github.io/publication/ortiz-martin-2019/</guid>
       <description></description>
     </item>
     
@@ -53,26 +61,42 @@
     </item>
     
     <item>
-      <title>Heartbeats Do Not Make Good Pseudo-Random Number Generators: An Analysis of the Randomness of Inter-Pulse Intervals</title>
-      <link>https://Pica4x6.github.io/publication/ortiz-2018/</link>
+      <title>Heartbeats do not make good pseudo-random number generators: An analysis of the randomness of inter-pulse intervals</title>
+      <link>https://Pica4x6.github.io/publication/ortiz-martin-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Pica4x6.github.io/publication/ortiz-2018/</guid>
+      <guid>https://Pica4x6.github.io/publication/ortiz-martin-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HIKE: Walking the Privacy Trail</title>
-      <link>https://Pica4x6.github.io/publication/picazo-sanchez-2018-a/</link>
+      <title>HIKE: Walking the privacy trail</title>
+      <link>https://Pica4x6.github.io/publication/pagnin-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Pica4x6.github.io/publication/picazo-sanchez-2018-a/</guid>
+      <guid>https://Pica4x6.github.io/publication/pagnin-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Migrating Monitors &#43; ABE: A Suitable Combination for Secure IoT?</title>
-      <link>https://Pica4x6.github.io/publication/picazo-sanchez-2018/</link>
+      <title>Migrating monitors &#43; ABE: A suitable combination for secure IoT?</title>
+      <link>https://Pica4x6.github.io/publication/pace-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Pica4x6.github.io/publication/picazo-sanchez-2018/</guid>
+      <guid>https://Pica4x6.github.io/publication/pace-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure photo sharing in social networks</title>
+      <link>https://Pica4x6.github.io/publication/picazo-sanchez-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Pica4x6.github.io/publication/picazo-sanchez-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STARS4ALL Night Sky Brightness Photometer</title>
+      <link>https://Pica4x6.github.io/publication/zamorano-2016-stars-4-all/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Pica4x6.github.io/publication/zamorano-2016-stars-4-all/</guid>
       <description></description>
     </item>
     
@@ -85,50 +109,42 @@
     </item>
     
     <item>
-      <title>STARS4ALL night sky brightness photometer</title>
-      <link>https://Pica4x6.github.io/publication/zamorano-2016-stars-4-all/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://Pica4x6.github.io/publication/zamorano-2016-stars-4-all/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Secure Publish-Subscribe Protocols for Heterogeneous Medical Wireless Body Area Networks</title>
-      <link>https://Pica4x6.github.io/publication/picazo-2014-a/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://Pica4x6.github.io/publication/picazo-2014-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Weaknesses of fingerprint-based mutual authentication protocol</title>
       <link>https://Pica4x6.github.io/publication/picazo-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://Pica4x6.github.io/publication/picazo-2014/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cryptanalysis of the RNTS system</title>
-      <link>https://Pica4x6.github.io/publication/picazo-2013-a/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://Pica4x6.github.io/publication/picazo-2013-a/</guid>
+      <title>Secure publish-subscribe protocols for heterogeneous medical wireless body area networks</title>
+      <link>https://Pica4x6.github.io/publication/picazo-sanchez-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://Pica4x6.github.io/publication/picazo-sanchez-2014/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Two RFID Standard-based Security Protocols for Healthcare Environments</title>
-      <link>https://Pica4x6.github.io/publication/picazo2013/</link>
+      <title>Cryptanalysis of the RNTS system</title>
+      <link>https://Pica4x6.github.io/publication/picazo-sanchez-2013-a/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://Pica4x6.github.io/publication/picazo2013/</guid>
+      <guid>https://Pica4x6.github.io/publication/picazo-sanchez-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two RFID standard-based security protocols for healthcare environments</title>
+      <link>https://Pica4x6.github.io/publication/picazo-sanchez-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://Pica4x6.github.io/publication/picazo-sanchez-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security of EPC Class-1</title>
-      <link>https://Pica4x6.github.io/publication/picazo-2012/</link>
+      <link>https://Pica4x6.github.io/publication/picazo-sanchez-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://Pica4x6.github.io/publication/picazo-2012/</guid>
+      <guid>https://Pica4x6.github.io/publication/picazo-sanchez-2012/</guid>
       <description></description>
     </item>
     
