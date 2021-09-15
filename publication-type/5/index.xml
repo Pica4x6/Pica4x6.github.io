@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>5 | Pica4x6</title>
+    <title>5 on Pica4x6</title>
     <link>https://Pica4x6.github.io/publication-type/5/</link>
-      <atom:link href="https://Pica4x6.github.io/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
-    <description>5</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://Pica4x6.github.io/media/icon_hua0a81d9b9ac5463e8fe309df5ceea2a3_35085_512x512_fill_lanczos_center_3.png</url>
-      <title>5</title>
-      <link>https://Pica4x6.github.io/publication-type/5/</link>
-    </image>
-    
+    <description>Recent content in 5 on Pica4x6</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://Pica4x6.github.io/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HIKE: Walking the privacy trail</title>
       <link>https://Pica4x6.github.io/publication/pagnin-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://Pica4x6.github.io/publication/pagnin-2018/</guid>
       <description></description>
     </item>
@@ -24,6 +20,7 @@
       <title>Migrating monitors &#43; ABE: A suitable combination for secure IoT?</title>
       <link>https://Pica4x6.github.io/publication/pace-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://Pica4x6.github.io/publication/pace-2018/</guid>
       <description></description>
     </item>
@@ -32,6 +29,7 @@
       <title>Secure photo sharing in social networks</title>
       <link>https://Pica4x6.github.io/publication/picazo-sanchez-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://Pica4x6.github.io/publication/picazo-sanchez-2017/</guid>
       <description></description>
     </item>
@@ -40,6 +38,7 @@
       <title>Security of EPC Class-1</title>
       <link>https://Pica4x6.github.io/publication/picazo-sanchez-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>https://Pica4x6.github.io/publication/picazo-sanchez-2012/</guid>
       <description></description>
     </item>

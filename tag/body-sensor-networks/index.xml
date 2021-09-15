@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;body sensor networks&#34; | Pica4x6</title>
+    <title>&#34;body sensor networks&#34; on Pica4x6</title>
     <link>https://Pica4x6.github.io/tag/body-sensor-networks/</link>
-      <atom:link href="https://Pica4x6.github.io/tag/body-sensor-networks/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;body sensor networks&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://Pica4x6.github.io/media/icon_hua0a81d9b9ac5463e8fe309df5ceea2a3_35085_512x512_fill_lanczos_center_3.png</url>
-      <title>&#34;body sensor networks&#34;</title>
-      <link>https://Pica4x6.github.io/tag/body-sensor-networks/</link>
-    </image>
-    
+    <description>Recent content in &#34;body sensor networks&#34; on Pica4x6</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://Pica4x6.github.io/tag/body-sensor-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feasibility analysis of Inter-Pulse Intervals based solutions for cryptographic token generation by two electrocardiogram sensors</title>
       <link>https://Pica4x6.github.io/publication/ortiz-martin-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://Pica4x6.github.io/publication/ortiz-martin-2019/</guid>
       <description></description>
     </item>

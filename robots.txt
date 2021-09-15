@@ -1,3 +1,1 @@
 User-agent: *
-
-Sitemap: https://Pica4x6.github.io/sitemap.xml

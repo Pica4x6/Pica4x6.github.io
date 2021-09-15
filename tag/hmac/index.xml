@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;hmac&#34; | Pica4x6</title>
+    <title>&#34;hmac&#34; on Pica4x6</title>
     <link>https://Pica4x6.github.io/tag/hmac/</link>
-      <atom:link href="https://Pica4x6.github.io/tag/hmac/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;hmac&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://Pica4x6.github.io/media/icon_hua0a81d9b9ac5463e8fe309df5ceea2a3_35085_512x512_fill_lanczos_center_3.png</url>
-      <title>&#34;hmac&#34;</title>
-      <link>https://Pica4x6.github.io/tag/hmac/</link>
-    </image>
-    
+    <description>Recent content in &#34;hmac&#34; on Pica4x6</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Pica4x6.github.io/tag/hmac/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HMAC and “secure preferences”: Revisiting chromium-based browsers security</title>
       <link>https://Pica4x6.github.io/publication/picazo-sanchez-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://Pica4x6.github.io/publication/picazo-sanchez-2020/</guid>
       <description></description>
     </item>
