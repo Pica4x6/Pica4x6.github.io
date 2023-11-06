@@ -1,1 +1,33 @@
+---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
+headless: true  # This file represents a page section.
 
+
+# Order that this section appears on the page.
+weight: 160
+
+title: Supervision
+subtitle: PhD [1]
+
+
+# ... Put Your Section Options Here (title etc.) ...
+
+filters:
+tag: 'PhD'
+category: 'Supervision'
+publication_type: ''
+exclude_featured: false
+exclude_past: false
+exclude_future: false
+design:
+# Toggle between the various page layout types.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation (publication only)
+view: 4
+---
+#### Ongoing
+- Mohamed Hashim Changrampadi. Chalmers.
